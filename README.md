@@ -1,29 +1,28 @@
-# Incentivi statali
-[Guarda il codice su CodePen](https://codepen.io/marcellocomandulli/pen/QWXaNdZ)
+# State incentives
+[See the code on CodePen](https://codepen.io/marcellocomandulli/pen/QWXaNdZ)
 
-**Questo programma TypeScript utilizza le interfacce e le classi per creare un sistema di elaborazione delle startup inserite, degli incentivi statali 
-disponibili e la loro relativa assegnazione e i cittadini che parteciperanno ai relativi eventi proposti.**
+**This TypeScript program uses interfaces and classes to create a system for processing the startups entered, the state incentives 
+available and their relative allocation, and the citizens who will participate in related proposed events.**
 
-*In questa repo troverai il file index.html che serve esclusivamente per eseguire il codice del file JavaScript app.js su browser, compilato dal traspilatore dal file TypeScript app.ts.*
+*In this repo you will find the index.html file that is used exclusively to execute the JavaScript app.js-file code on browsers, compiled by the transpiler from the TypeScript app.ts-file. There is also a Powerpoint presentation explaining the TypeScript code.*
 
-*Per elaborare e quindi visualizzare un file TypeScript ".ts", dovrai installare prima Node.js e il compilatore di TypeScript.*
-### Installazione di node.js
+*To process and then display a TypeScript “.ts” file, you will first need to install Node.js and the TypeScript transpiler.*
+### Node.js installation
 
-Vai alla pagina di [download](https://nodejs.org/en/download/) di node.js: 
-* Scegli la piattaforma che più si addice al suo sistema operativo.
-* Esegui il pacchetto node.js che hai scaricato.
-* Verifica che l’installazione sia andata a buon fine aprendo il terminale (su macOS e Linux) o PowerShell (su Windows) e digita il comando *“node -v”*. 
-* Se visualizzerai la versione di node.js che hai scaricato dalla pagina di “download”, significa che hai correttamente installato node.js sul tuo computer.
+Go to the [download](https://nodejs.org/en/download/) page of node.js: 
+* Choose the platform that best suits your operating system.
+* Run the node.js package you downloaded.
+* Verify that the installation was successful by opening the terminal (on macOS and Linux) or PowerShell (on Windows) and type the command *"node -v”*. 
+* If you see the version of node.js that you downloaded from the “download” page, it means that you have successfully installed node.js on your computer.
 
-### Installazione del transpilatore TypeScript
-* Per installare il compilatore TypeScript, puoi lanciare il terminale su macOS e Linux o PowerShell su Windows e digitare i comandi seguenti:
+### Installing the TypeScript transpiler.
+* To install the TypeScript compiler, you can run the terminal on macOS and Linux or PowerShell on Windows and type the following commands:
  *npm install -g typescript*
 
-* Terminata l’installazione, digitando il seguente commando, ti verrà restituita l’effettiva versione di TypeScript installata sul tuo computer:   
- *tsc –v*
+* When the installation is complete, typing the following command will return the actual version of TypeScript installed on your computer:   
+ *tsc -v*
 
-* Dovrebbe ritornare una stringa simile a questa (ovviamente la tua versione potrebbe essere più aggiornata):                                          
+* It should return a string similar to this (of course, your version may be more up-to-date):                                          
 *Version 5.3.3*
-
 
 
