@@ -19,7 +19,7 @@ Vai alla pagina di [download](https://nodejs.org/en/download/) di node.js:
 * Per installare il compilatore TypeScript, puoi lanciare il terminale su macOS e Linux o PowerShell su Windows e digitare i comandi seguenti:
  *npm install -g typescript*
 
-* Terminata l’installazione, digitando il seguente commando, ti verrà restituita l’effettiva versione di TypeScript installata sul tuo computer:
+* Terminata l’installazione, digitando il seguente commando, ti verrà restituita l’effettiva versione di TypeScript installata sul tuo computer:   
  *tsc –v*
 
 * Dovrebbe ritornare una stringa simile a questa (ovviamente la tua versione potrebbe essere più aggiornata):
