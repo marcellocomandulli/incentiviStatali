@@ -2,7 +2,7 @@ Per elaborare e quindi visualizzare un file TypeScript ".ts", dovrai installare 
 
 Installazione di node.js
 
-Vai alla pagina di download di node.js: https://nodejs.org/en/download/
+Vai alla pagina di [download](https://nodejs.org/en/download/) di node.js: 
 Scegli la piattaforma che più si addice al suo sistema operativo.
 Esegui il pacchetto node.js che hai scaricato.
 Verifica che l’installazione sia andata a buon fine aprendo il terminale (su macOS e Linux) o PowerShell (su Windows) e digita il comando “node -v”. 
@@ -23,3 +23,5 @@ Version 5.3.3
 
 Questo programma TypeScript utilizza le interfacce e le classi per creare un sistema di elaborazione delle startup inserite, degli incentivi statali 
 disponibili e la loro relativa assegnazione e i cittadini che parteciperanno ai relativi eventi proposti.
+
+[See the code on CodePen]((https://codepen.io/marcellocomandulli/pen/QWXaNdZ))
