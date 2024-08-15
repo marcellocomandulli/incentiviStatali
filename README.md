@@ -22,7 +22,7 @@ Vai alla pagina di [download](https://nodejs.org/en/download/) di node.js:
 * Terminata l’installazione, digitando il seguente commando, ti verrà restituita l’effettiva versione di TypeScript installata sul tuo computer:   
  *tsc –v*
 
-* Dovrebbe ritornare una stringa simile a questa (ovviamente la tua versione potrebbe essere più aggiornata):
+* Dovrebbe ritornare una stringa simile a questa (ovviamente la tua versione potrebbe essere più aggiornata):                                          
 *Version 5.3.3*
 
 
