@@ -4,7 +4,7 @@
 **This TypeScript program uses interfaces and classes to create a system for processing the startups entered, the state incentives 
 available and their relative allocation, and the citizens who will participate in related proposed events.**
 
-*In this repo you will find the index.html file that is used exclusively to execute the JavaScript app.js-file code on browsers, compiled by the transpiler from the TypeScript app.ts-file. There is also a Powerpoint presentation explaining the TypeScript code.*
+*In this repo you will find the index.html file that is used exclusively to execute the JavaScript app.js-file code on browsers, compiled by the transpiler from the TypeScript app.ts-file. There is also a PDF presentation explaining the TypeScript code.*
 
 *To process and then display a TypeScript “.ts” file, you will first need to install Node.js and the TypeScript transpiler.*
 ### Node.js installation
