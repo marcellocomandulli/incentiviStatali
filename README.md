@@ -24,4 +24,4 @@ Version 5.3.3
 Questo programma TypeScript utilizza le interfacce e le classi per creare un sistema di elaborazione delle startup inserite, degli incentivi statali 
 disponibili e la loro relativa assegnazione e i cittadini che parteciperanno ai relativi eventi proposti.
 
-[See the code on CodePen]((https://codepen.io/marcellocomandulli/pen/QWXaNdZ))
+[See the code on CodePen](https://codepen.io/marcellocomandulli/pen/QWXaNdZ)
