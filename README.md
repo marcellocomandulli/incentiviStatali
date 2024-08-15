@@ -11,12 +11,15 @@ available and their relative allocation, and the citizens who will participate i
 
 Go to the [download](https://nodejs.org/en/download/) page of node.js: 
 * Choose the platform that best suits your operating system.
+  
 * Run the node.js package you downloaded.
-* Verify that the installation was successful by opening the terminal (on macOS and Linux) or PowerShell (on Windows) and type the command *"node -v”*. 
+  
+* Verify that the installation was successful by opening the terminal (on macOS and Linux) or PowerShell (on Windows) and type the command *"node -v”*.
+  
 * If you see the version of node.js that you downloaded from the “download” page, it means that you have successfully installed node.js on your computer.
 
 ### Installing the TypeScript transpiler
-* To install the TypeScript compiler, you can run the terminal on macOS and Linux or PowerShell on Windows and type the following commands:
+* To install the TypeScript compiler, you can run the terminal on macOS and Linux or PowerShell on Windows and type the following commands:                                                    
  *npm install -g typescript*
 
 * When the installation is complete, typing the following command will return the actual version of TypeScript installed on your computer:   
