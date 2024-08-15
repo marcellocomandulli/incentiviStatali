@@ -3,9 +3,10 @@
 
 **Questo programma TypeScript utilizza le interfacce e le classi per creare un sistema di elaborazione delle startup inserite, degli incentivi statali 
 disponibili e la loro relativa assegnazione e i cittadini che parteciperanno ai relativi eventi proposti.**
-In questa repo troverai il file index.html che serve esclusivamente per eseguire il codice del file JavaScript app.js su browser, compilato dal traspilatore dal file TypeScript app.ts.
 
-*Per elaborare e quindi visualizzare un file TypeScript ".ts", dovrai installare prima Node.js e il compilatore di TypeScript.*
+*In questa repo troverai il file index.html che serve esclusivamente per eseguire il codice del file JavaScript app.js su browser, compilato dal traspilatore dal file TypeScript app.ts.
+
+Per elaborare e quindi visualizzare un file TypeScript ".ts", dovrai installare prima Node.js e il compilatore di TypeScript.*
 ### Installazione di node.js
 
 Vai alla pagina di [download](https://nodejs.org/en/download/) di node.js: 
